@@ -1,0 +1,972 @@
+﻿ZONENO,CENTROID_X,CENTROID_Y,DESCRIPTIO,WARD,AREAKM2
+1011,401852,285083,Quinton,Quinton,1km2
+1021,402913,285436,North Harbourne,Harborne,1km2
+1022,403441,284425,East Harbourne,Harborne,1km2
+1023,402116,284177,West Harbourne,Harborne,2km2
+1024,402959,283258,South Harbourne,Harborne,1km2
+1031,404082,286066,North Edgbaston,Edgbaston,2km2
+1032,404798,285093,Central Edgbaston,Edgbaston,2km2
+1033,403895,283405,South West Edgbaston,Edgbaston,1km2
+1034,405190,284645,South Edgbaston,Edgbaston,2km2
+1035,406459,284828,East Edgbaston,Edgbaston,3km2
+1041,402103,282148,North Weoley,Weoley,1km2
+1042,402295,281056,Central Weoley,Weoley,2km2
+1043,401636,279789,South Weoley,Weoley,1km2
+1051,400618,282650,North Bartley Green,Bartley Green,3km2
+1052,399513,281932,West Bartley Green,Bartley Green,2km2
+1053,401267,281231,South Bartley Green,Bartley Green,2km2
+1061,403318,282434,West Selly Oak,Selly Oak,2km2
+1062,404311,281809,South Selly Oak,Selly Oak,1km2
+1063,404973,282393,Central Selly Oak,Selly Oak,1km2
+1064,405794,282697,East Selly Oak,Selly Oak,1km2
+1071,403528,280569,North West Bournville,Bournville,2km2
+1072,405417,280961,Central Bourneville,Bournville,1km2
+1073,404349,279985,South West Bourneville,Bournville,2km2
+1074,406144,281386,East Bourneville,Bournville,1km2
+1081,402967,278527,North East Northfield,Northfield,1km2
+1082,402365,277770,South Northfield,Northfield,2km2
+1083,401980,279025,North West Northfield,Northfield,2km2
+1091,401666,277023,East Longbridge,Longbridge,1km2
+1092,399893,277085,South Longbridge,Longbridge,1km2
+1093,400194,276458,South East Longbridge,Longbridge,1km2
+1094,400067,278064,South West Longbridge,Longbridge,2km2
+1095,399489,278744,West Longbridge,Longbridge,2km2
+1101,403644,278284,West Kings Norton,King's Norton,1km2
+1102,404751,277886,South East Kings Norton,King's Norton,3km2
+1103,404539,278742,Central Kings Noton,King's Norton,1km2
+1104,404776,279478,North Kings Norton,King's Norton,1km2
+1111,400647,284687,North Quinton,Quinton,1km2
+1112,400405,284060,South Quinton,Quinton,2km2
+1121,406998,278885,South Brandwood,Brandwood,2km2
+1122,407254,280834,North Brandwood,Brandwood,1km2
+1123,406458,280352,West Brandwood,Brandwood,1km2
+1124,405879,279260,South West Brandwood,Brandwood,1km2
+1125,407532,280034,East Brandwood,Brandwood,1km2
+1131,408234,278618,South West Billesley,Billesley,1km2
+1132,408620,279223,South Billesley,Billesley,1km2
+1133,409545,279606,South East Billesley,Billesley,1km2
+1134,408170,280778,North West Billesley,Billesley,1km2
+1135,409018,280442,Cental Billesley,Billesley,1km2
+1136,409225,281212,North East Billesley,Billesley,1km2
+1141,410310,280424,West Hall Green,Hall Green,1km2
+1142,410886,279866,South Hall Green,Hall Green,1km2
+1143,411268,281039,East Hall Green,Hall Green,1km2
+1144,410633,281555,Central Hall Green,Hall Green,1km2
+1145,410143,282323,North Hall Green,Hall Green,1km2
+1151,411920,281753,South Fox Hollies,Fox Hollies,1km2
+1152,412349,282609,East Fox Hollies,Fox Hollies,1km2
+1153,411542,282833,Cental Fox Hollies,Fox Hollies,1km2
+1154,410999,283457,North Fox Hollies,Fox Hollies,1km2
+1155,410374,283057,North West Fox Hollies,Fox Hollies,1km2
+1161,408940,282288,East Moseley,Moseley,1km2
+1162,407937,282449,Central Moseley,Moseley,1km2
+1163,407421,281700,West Moseley,Moseley,1km2
+1164,407265,284138,North Moseley,Moseley,0km2
+1165,407069,283023,North West Moseley,Moseley,3km2
+1171,412206,285217,Central Acock's Green,Acock's Green,1km2
+1172,412514,285891,North Acock's Green,Acock's Green,1km2
+1173,412327,283648,South Acock's Green,Acock's Green,1km2
+1174,412911,284265,East Acock's Green,Acock's Green,1km2
+1175,411359,284542,West Acock's Green,Acock's Green,1km2
+1181,411172,286258,North East Small Heath,Small Heath,2km2
+1182,410154,284040,South Small Heath,Small Heath,1km2
+1183,410599,285385,East Small Heath,Small Heath,1km2
+1184,410206,285854,Central Small Heath,Small Heath,1km2
+1185,409914,286321,North Small Heath,Small Heath,1km2
+1191,407668,286107,North West Sparkbrook,Sparkbrook,0km2
+1192,407517,284514,South West Sparkbrook,Sparkbrook,1km2
+1193,408276,284553,South Sparkbrook,Sparkbrook,1km2
+1194,409294,285741,East Sparkbrook,Sparkbrook,1km2
+1195,409089,284810,South East Sparkbrook,Sparkbrook,1km2
+1201,407626,286628,South West Nechells,Nechells,0km2
+1202,408822,286686,South Nechells,Nechells,0km2
+1203,410293,286927,South East Nechells,Nechells,2km2
+1204,410206,287658,East Nechells,Nechells,1km2
+1205,408527,287801,Central Nechells,Nechells,1km2
+1206,409278,289279,North Nechells,Nechells,2km2
+1207,407317,287224,West Nechells,Nechells,0km2
+1208,408549,288412,North West Nechells,Nechells,1km2
+1211,410467,288206,West Washwood Heath,Washwood Heath,1km2
+1212,409584,288449,North Washwood Heath,Washwood Heath,0km2
+1213,411466,288620,East Washwood Heath,Washwood Heath,2km2
+1214,411911,287490,South Washwood Heath,Washwood Heath,1km2
+1221,411706,290825,West Kingsbury,Kingsbury,0km2
+1222,412351,290426,South Kingsbury,Kingsbury,2km2
+1223,412806,291576,North West Kingsbury,Kingsbury,1km2
+1224,413624,291842,North East Kingsbury,Kingsbury,1km2
+1225,414465,291293,East Kingsbury,Kingsbury,2km2
+1226,414463,290352,South East Kingsbury,Kingsbury,0km2
+1231,410808,292782,North Erdington,Erdington,1km2
+1232,410786,290760,South Erdington,Erdington,1km2
+1233,411049,291622,West Erdington,Erdington,1km2
+1234,411847,292444,North East Erdington,Erdington,1km2
+1235,412081,291588,East Erdington,Erdington,1km2
+1241,410019,292990,North Stockland Green,Stockland Green,1km2
+1242,410114,292078,East Stockland Green,Stockland Green,1km2
+1243,409315,291232,West Stockland Green,Stockland Green,1km2
+1244,410307,290265,South Stockland Green,Stockland Green,1km2
+1245,410095,291137,Central Stockland Green,Stockland Green,1km2
+1251,406904,291793,South East Perry Bar,Perry Barr,3km2
+1252,405821,292269,South West Perry Bar,Perry Barr,2km2
+1253,405154,293242,East Perry Bar,Perry Barr,0km2
+1254,406473,293198,West Perry Bar,Perry Barr,1km2
+1255,405510,293737,North Perry Bar,Perry Barr,1km2
+1261,405299,291436,East Sandwell,Sandwell,1km2
+1262,404413,291971,North East Sandwell,Sandwell,1km2
+1263,403726,290405,West Sandwell,Sandwell,4km2
+1264,404585,290567,South East Sandwell,Sandwell,1km2
+1271,407174,290235,East Handsworth,Handsworth,1km2
+1272,406055,290518,North Handsworth,Handsworth,2km2
+1273,406109,289761,South Handsworth,Handsworth,1km2
+1281,408474,290536,North Aston,Aston,1km2
+1282,408413,289507,East Aston,Aston,1km2
+1283,407619,289559,Cental Aston,Aston,2km2
+1284,406597,288132,South Aston,Aston,1km2
+1285,406415,288969,West Aston,Aston,2km2
+1291,405160,286258,South Ladywood,Ladywood,0km2
+1292,405097,287058,South West Ladywood,Ladywood,1km2
+1293,406160,286946,Central Ladywood,Ladywood,0km2
+1294,406495,286352,South East Ladywood,Ladywood,0km2
+1295,406983,286886,North East Ladywood,Ladywood,0km2
+1296,407058,286164,East Ladywood,Ladywood,0km2
+1297,406422,287441,North West Ladywood,Ladywood,0km2
+1298,403497,287051,West Ladywood,Ladywood,2km2
+1301,415426,284230,South Sheldon,Sheldon,2km2
+1302,415454,285162,Central Sheldon,Sheldon,1km2
+1303,415075,285606,North Sheldon,Sheldon,1km2
+1304,414510,284958,North West Sheldon,Sheldon,1km2
+1305,413945,284675,West Sheldon,Sheldon,1km2
+1311,403571,289596,North West Soho,Soho,1km2
+1312,404655,289528,North Soho,Soho,1km2
+1313,405355,288973,East Soho,Soho,1km2
+1314,404777,288356,Central Soho,Soho,1km2
+1315,404202,287881,South Soho,Soho,1km2
+1321,413116,287102,North West Yardley,Yardley,1km2
+1322,414271,286848,North East Yardley,Yardley,1km2
+1323,412960,286474,West Yardley,Yardley,1km2
+1324,414351,286238,East Yardley,Yardley,1km2
+1325,413599,285595,South Yardley,Yardley,1km2
+1331,408298,283514,West Sparkhill,Sparkhill,1km2
+1332,409517,282924,South Sparkhill,Sparkhill,1km2
+1333,409490,283819,East Sparkhill,Sparkhill,1km2
+1334,408972,283721,Central Sparkhill,Sparkhill,1km2
+1341,407652,295487,North Oscott,Oscott,1km2
+1342,407446,294790,North East Oscott,Oscott,0km2
+1343,406578,294852,West Oscott,Oscott,1km2
+1344,407738,292992,South Oscott,Oscott,2km2
+1345,407295,294113,East Oscott,Oscott,1km2
+1346,407459,293491,Central Oscott,Oscott,0km2
+1351,408747,292320,South Kingstanding,Kingstanding,1km2
+1352,409077,293315,East Kingstanding,Kingstanding,1km2
+1353,409137,294347,North Kingstanding,Kingstanding,1km2
+1354,408411,294087,West Kingstanding,Kingstanding,1km2
+1361,412050,293930,East Sutton Vesey,Sutton Vesey,3km2
+1362,410952,293742,South Sutton Vesey,Sutton Vesey,1km2
+1363,410871,294722,North East Sutton Vesey,Sutton Vesey,2km2
+1364,409542,294907,Central Sutton Vesey,Sutton Vesey,2km2
+1365,408255,295963,North East Sutton Vesey,Sutton Vesey,1km2
+1371,411552,296654,South West Sutton Four Oaks,Sutton Four Oaks,7km2
+1372,410482,299452,North West Sutton Four Oaks,Sutton Four Oaks,3km2
+1373,412410,298494,North East Sutton Four Oaks,Sutton Four Oaks,3km2
+1374,411957,299516,North Sutton Four Oaks,Sutton Four Oaks,6km2
+1375,412696,296933,East Sutton Four Oaks,Sutton Four Oaks,1km2
+1376,412025,295888,SE Four Oaks and NW New Hall,Sutton Four Oaks and New Hall,0km2
+1381,416009,286647,South Shard End,Shard End,1km2
+1382,415487,287244,East Shard End,Shard End,1km2
+1383,416006,288698,North East Shard End,Shard End,1km2
+1384,414452,287364,West Shard End,Shard End,1km2
+1385,414907,288864,North West Shard End,Shard End,1km2
+1391,413564,297033,North East Sutton New Hall,Sutton New Hall,4km2
+1392,412373,295670,North West Sutton New Hall,Sutton New Hall,0km2
+1393,413918,295874,North Sutton New Hall,Sutton New Hall,3km2
+1394,413744,292815,West Sutton New Hall,Sutton New Hall,2km2
+1395,414257,293712,Central Sutton New Hall,Sutton New Hall,11km2
+1396,415793,292278,South Sutton New Hall,Sutton New Hall,5km2
+1401,412853,289461,North Hodge Hill,Hodge Hill,3km2
+1402,413587,288726,Central Hodge Hill,Hodge Hill,2km2
+1403,413788,287847,South Hodge Hill,Hodge Hill,1km2
+1501,407642,285364,North West Sparkbrook,Sparkbrook,0km2
+1502,408024,285894,North West Sparkbrook,Sparkbrook,0km2
+1503,407569,287063,South West Nechells,Nechells,0km2
+1504,408082,287136,South West Nechells,Nechells,0km2
+1505,408041,286821,South West Nechells,Nechells,0km2
+1506,408353,286598,South West Nechells,Nechells,0km2
+1507,408172,286366,South West Nechells,Nechells,0km2
+1508,407225,287382,West Nechells,Nechells,0km2
+1509,407309,287804,West Nechells,Nechells,0km2
+1510,407725,287451,West Nechells,Nechells,0km2
+1511,406177,287914,South Aston,Aston,0km2
+1512,407368,288123,South Aston,Aston,0km2
+1513,405711,287082,Central Ladywood,Ladywood,0km2
+1514,405558,286581,Central Ladywood,Ladywood,1km2
+1515,406102,286293,South East Ladywood,Ladywood,0km2
+1516,406497,285964,South East Ladywood,Ladywood,0km2
+1517,406793,287151,North East Ladywood,Ladywood,0km2
+1518,406757,286941,North East Ladywood,Ladywood,0km2
+1519,406688,286755,North East Ladywood,Ladywood,0km2
+1520,406982,286692,North East Ladywood,Ladywood,0km2
+1521,406767,286548,North East Ladywood,Ladywood,0km2
+1522,407162,286754,North East Ladywood,Ladywood,0km2
+1523,407257,286978,North East Ladywood,Ladywood,0km2
+1524,407102,285728,East Ladywood,Ladywood,0km2
+1525,407263,286513,East Ladywood,Ladywood,0km2
+1526,407408,286329,East Ladywood,Ladywood,0km2
+1527,405930,287420,North West Ladywood,Ladywood,0km2
+1528,411671,297474,South West Sutton Four Oaks,Sutton Four Oaks,4km2
+1529,412620,297500,East Sutton Four Oaks,Sutton Four Oaks,0km2
+1530,413006,296096,East Sutton Four Oaks,Sutton Four Oaks,1km2
+1531,411350,296060,North West Sutton New Hall,Sutton New Hall,0km2
+1532,411717,296130,North West Sutton New Hall,Sutton New Hall,0km2
+1533,412330,295146,North West Sutton New Hall,Sutton New Hall,0km2
+1534,400722,277787,South East Longbridge,Longbridge,0km2
+1535,410758,288999,North Washwood Heath,Washwood Heath,1km2
+2011,429627,278503,North East Westwood,Westwood,1km2
+2012,428684,276574,South Westwood,Westwood,2km2
+2013,428346,278035,North West Westwood,Westwood,1km2
+2014,428462,277291,South West Westwood,Westwood,1km2
+2015,429952,277306,East Westwood,Westwood,1km2
+2021,432539,275948,East Wainbody,Wainbody,2km2
+2022,430983,275517,Central Wainbody,Wainbody,2km2
+2023,430840,276491,North Wainbody,Wainbody,1km2
+2024,430025,276574,West Wainbody,Wainbody,1km2
+2031,433576,276360,South East Earlsdon,Earlsdon,2km2
+2032,430642,277590,West Earlsdon,Earlsdon,0km2
+2033,432610,278534,East Earlsdon,Earlsdon,0km2
+2034,431176,277517,South West Earlsdon,Earlsdon,1km2
+2041,427273,279030,West Woodlands,Woodlands,1km2
+2042,427938,279861,North West Woodlands,Woodlands,1km2
+2043,428369,278749,South West Woodlands,Woodlands,2km2
+2044,429268,279694,East Woodlands,Woodlands,1km2
+2051,430024,279801,North Whoberley,Whoberley,1km2
+2052,430660,279031,Central Whoberley,Whoberley,1km2
+2053,431923,278664,South East Whoberley,Whoberley,1km2
+2054,430630,278350,South West Whoberly,Whoberley,1km2
+2061,431379,280087,North Sherbourne,Sherbourne,2km2
+2062,432428,279733,South Sherbourne,Sherbourne,0km2
+2071,432455,283454,North West Holbrook,Holbrook,4km2
+2072,433259,281996,South Holbrook,Holbrook,1km2
+2073,433052,282920,Central Holbrook,Holbrook,1km2
+2074,433756,283219,North Holbrook,Holbrook,1km2
+2075,434691,284184,North East Holbrook,Holbrook,1km2
+2081,427356,281344,South West Bablake,Bablake,3km2
+2082,429613,280954,South Bablake,Bablake,1km2
+2083,429638,282453,North Bablake,Bablake,10km2
+2084,429890,281863,Central Bablake,Bablake,1km2
+2085,431796,281281,South East Bablake,Bablake,3km2
+2086,432185,282103,East Bablake,Bablake,1km2
+2091,436540,281433,South East Longford,Longford,0km2
+2092,435398,281962,South West Longford,Longford,1km2
+2093,435546,282677,Central Longford,Longford,1km2
+2094,435575,283559,North Longford,Longford,2km2
+2101,438599,281508,East Henley,Henley,1km2
+2102,436847,283777,North Henley,Henley,2km2
+2103,437818,281735,South Henley,Henley,3km2
+2104,436693,282112,West Henley,Henley,1km2
+2111,434548,282589,North Foleshill,Foleshill,1km2
+2112,434260,281625,Central Foleshill,Foleshill,1km2
+2113,433625,279960,South Foleshill,Foleshill,0km2
+2114,434621,280819,South East Foleshill,Foleshill,1km2
+2115,433746,281054,West Foleshill,Foleshill,1km2
+2121,433154,278898,West St Michael's,St Michael's,0km2
+2122,434150,279457,East St Michael's,St Michael's,1km2
+2123,434201,278468,South St Michael's,St Michael's,0km2
+2131,435591,280259,Upper Stoke,Upper Stoke,3km2
+2141,437263,281115,North Wyken,Wyken,0km2
+2142,437198,279312,South West Wyken,Wyken,1km2
+2143,437986,279292,South East Wyken,Wyken,2km2
+2144,436904,280313,West Wyken,Wyken,2km2
+2151,436666,276620,West Binley and Willenhall,Binley and Willenhall,2km2
+2152,438397,278319,East Binley and Willenhall,Binley and Willenhall,1km2
+2153,437660,277492,South Binley and Willenhall,Binley and Willenhall,1km2
+2154,437169,277779,North Binley and Willenhall,Binley and Willenhall,1km2
+2161,436084,279197,North Lower Stoke,Lower Stoke,1km2
+2162,435021,278162,West Lower Stoke,Lower Stoke,0km2
+2163,435704,278193,South Lower Stoke,Lower Stoke,1km2
+2164,436340,278305,East Lower Stoke,Lower Stoke,1km2
+2171,435949,276070,South Cheylesmore,Cheylesmore,1km2
+2172,434725,277457,East Cheylesmore,Cheylesmore,1km2
+2173,435298,276720,Central Cheylesmore,Cheylesmore,2km2
+2174,433761,278218,North Cheylesmore,Cheylesmore,1km2
+2181,433239,279916,Radford,Radford,1km2
+2201,432033,277917,East Earlsdon,Earlsdon,1km2
+2202,432737,277847,East Earlsdon,Earlsdon,1km2
+2203,431907,279174,South Sherbourne,Sherbourne,0km2
+2204,432576,279112,South Sherbourne,Sherbourne,0km2
+2205,433828,280217,South Foleshill,Foleshill,0km2
+2206,433412,279420,West St Michael's,St Michael's,0km2
+2207,433540,279135,West St Michael's,St Michael's,0km2
+2208,433863,278779,West St Michael's,St Michael's,0km2
+2209,433454,278793,West St Michael's,St Michael's,0km2
+2210,433348,278587,West St Michael's,St Michael's,0km2
+2211,432995,278735,West St Michael's,St Michael's,0km2
+2212,432976,279030,West St Michael's,St Michael's,0km2
+2213,433033,279201,West St Michael's,St Michael's,0km2
+2214,434388,279955,East St Michael's,St Michael's,0km2
+2215,434737,279548,East St Michael's,St Michael's,0km2
+2216,434582,278626,South St Michael's,St Michael's,1km2
+2217,433593,277710,North Cheylesmore,Cheylesmore,1km2
+2218,433945,277024,North Cheylesmore,Cheylesmore,1km2
+2219,432567,280817,Radford,Radford,1km2
+2220,433099,281108,Radford,Radford,1km2
+3011,390027,282931,East Norton,Norton,4km2
+3012,388863,283695,North Norton,Norton,1km2
+3013,388777,282850,West Norton,Norton,1km2
+3021,390570,283823,North Pedmore and Stourbridge,Pedmore and Stourbridge East,1km2
+3022,391063,282323,South Pedmore and Stourbridge,Pedmore and Stourbridge East,2km2
+3023,391552,283366,East Pedmore and Stourbridge E,Pedmore and Stourbridge East,1km2
+3031,391757,284359,North Lyle and Wollescote,Lye And Wollescote,1km2
+3032,392554,284073,Central Lyle and Wollescote,Lye And Wollescote,1km2
+3033,392466,282941,South Lyle and Wollescote,Lye And Wollescote,1km2
+3041,388924,285454,North Wollaston and Stourbridg,Wollaston and Stourbridge West,1km2
+3042,388865,284751,Central Wollaston and Stourbri,Wollaston and Stourbridge West,1km2
+3043,389646,284185,South Wollaston and Stourbridg,Wollaston and Stourbridge West,1km2
+3051,390220,285323,West Amblecote,Amblecote,2km2
+3052,391768,285386,South East Amblecote,Amblecote,1km2
+3053,391307,285746,North East Amblecote,Amblecote,1km2
+3061,393051,286004,North Quarry Bank and Cradley,Quarry Bank and Cradley,2km2
+3062,393783,284977,Central Quarry Bank and Cradle,Quarry Bank and Cradley,2km2
+3063,394653,284709,Souh Quarry Bank and Cradley,Quarry Bank and Cradley,1km2
+3071,394427,284045,North Hayley Green,Hayley Green,1km2
+3072,395208,282808,South Hayley Green,Hayley Green,2km2
+3073,394634,282434,Central Hayley Green,Hayley Green,1km2
+3081,395846,283457,South Belle Vale and Hasbury,Belle Vale and Hasbury,1km2
+3082,396816,284444,East Belle Vale and Hasbury,Belle Vale and Hasbury,1km2
+3083,396038,284365,North Belle Vale and Hasbury,Belle Vale and Hasbury,1km2
+3091,398147,285172,South Halesowen North,Halesowen North,1km2
+3092,398708,285707,East Halesowen North,Halesowen North,1km2
+3093,397719,285862,West Halesowen North,Halesowen North,1km2
+3101,396549,283048,West Halesowen South,Halesowen South,1km2
+3102,397485,283366,Central Halesowen South,Halesowen South,4km2
+3103,398710,284163,East Halesowen South,Halesowen South,2km2
+3111,394159,287825,North St Andrews,St Andrews,1km2
+3112,394080,286893,West St Andrews,St Andrews,2km2
+3113,395113,287367,Easy St Andrews,St Andrews,1km2
+3121,390225,286553,West Brierly Hill,Brierley Hill,1km2
+3122,391592,286750,Central Brierly Hill,Brierley Hill,1km2
+3123,391908,287087,East Brierly Hill,Brierley Hill,0km2
+3131,392348,287662,East Brockmoor and Pensett,Brockmoor and Pensett,1km2
+3132,391422,287709,South Brockmore and Pensett,Brockmoor and Pensett,1km2
+3133,391039,288904,North Brockmore and Pensett,Brockmoor and Pensett,3km2
+3141,388405,287889,West Kingswinford South,Kingswinford South,1km2
+3142,389273,288484,Central Kingswinford South,Kingswinford South,1km2
+3143,390129,288453,East Kingswinford South,Kingswinford South,1km2
+3151,388031,289489,West Kingswinford North and Wa,Kingswinford North and Wall He,2km2
+3152,388941,289632,Central Kingswinford North and,Kingswinford North and Wall He,2km2
+3153,389830,289598,East Kingswinford North and Wa,Kingswinford North and Wall He,1km2
+3161,392439,288575,North Netherton and Woodside,Netherton and Woodside,0km2
+3162,393108,288524,Central Netherton and Woodside,Netherton and Woodside,0km2
+3163,394319,288545,South Netherton and Woodside,Netherton and Woodside,0km2
+3171,391130,291328,West Gornal,Gornal,1km2
+3172,392075,291007,South Gornal,Gornal,2km2
+3173,392074,292236,North Gornal,Gornal,1km2
+3181,390348,291902,South Sedgley,Sedgley,1km2
+3182,391619,293447,Central Sedgley,Sedgley,2km2
+3183,391163,294194,North Sedgley,Sedgley,1km2
+3191,392167,293865,North Coseley West,Coseley West,2km2
+3192,393154,293200,Central Coseley West,Coseley West,1km2
+3193,393873,292871,South Coseley West,Coseley West,1km2
+3201,393184,291938,West Castle and Priory,Castle and Priory,1km2
+3202,394002,291539,Central Castle and Priory,Castle and Priory,0km2
+3203,394483,290626,East Castle and Priory,Castle and Priory,1km2
+3211,392503,289981,West St James's,St James's,1km2
+3212,393687,290199,East St James's,St James's,1km2
+3213,393197,290712,North St James's,St James's,0km2
+3221,393733,293873,West Coseley East,Coseley East,1km2
+3222,394761,294299,North Coseley East,Coseley East,1km2
+3223,394501,292597,East Coseley East,Coseley East,1km2
+3231,394352,289988,West St Thomas's,St Thomas's,1km2
+3232,395133,290207,North St Thomas's,St Thomas's,0km2
+3233,394744,289398,South St Thomas's,St Thomas's,1km2
+3241,388718,286602,West Wordsley,Wordsley,2km2
+3242,389404,287033,Central Wordsley,Wordsley,1km2
+3243,389804,287672,East Wordsley,Wordsley,1km2
+3301,392693,287072,East Brierly Hill,Brierley Hill,0km2
+3302,392402,286371,East Brierly Hill,Brierley Hill,0km2
+3303,392883,289058,North Netherton and Woodside,Netherton and Woodside,0km2
+3304,393535,289534,North Netherton and Woodside,Netherton and Woodside,0km2
+3305,393907,288646,Central Netherton and Woodside,Netherton and Woodside,1km2
+3306,394821,288251,South Netherton and Woodside,Netherton and Woodside,1km2
+3307,394630,287865,South Netherton and Woodside,Netherton and Woodside,0km2
+3308,394303,291447,Central Castle and Priory,Castle and Priory,1km2
+3309,394543,292204,Central Castle and Priory,Castle and Priory,0km2
+3310,395175,291353,East Castle and Priory,Castle and Priory,0km2
+3311,393021,289655,West St James's,St James's,0km2
+3312,394115,290430,East St James's,St James's,0km2
+3313,393452,291082,North St James's,St James's,1km2
+3314,395599,290015,North St Thomas's,St Thomas's,1km2
+3315,395046,288880,South St Thomas's,St Thomas's,1km2
+3316,395456,289263,South St Thomas's,St Thomas's,0km2
+4011,395969,292659,North Tipton Green,Tipton Green,1km2
+4012,396764,291080,South Tipton Green,Tipton Green,2km2
+4013,395444,292063,West Tipton Green,Tipton Green,2km2
+4021,400185,288518,South East Oldbury,Oldbury,2km2
+4022,398879,289859,North East Oldbury,Oldbury,2km2
+4023,397254,290198,North West Oldbury,Oldbury,1km2
+4024,398698,289494,South West Oldbury,Oldbury,1km2
+4031,397368,289266,East Tividale,Tividale,2km2
+4032,396396,289870,West Tividale,Tividale,1km2
+4041,398590,292062,East Great Bridge,Great Bridge,1km2
+4042,397738,291942,South Great Bridge,Great Bridge,2km2
+4043,397207,292659,Central Great Bridge,Great Bridge,1km2
+4044,396884,293315,North Great Bridge,Great Bridge,1km2
+4051,396285,293608,South Princes End,Princes End,1km2
+4052,396191,294304,North Princes End,Princes End,1km2
+4061,399339,294035,East Wednesbury South,Wednesbury South,2km2
+4062,398893,292938,South Wednesbury South,Wednesbury South,2km2
+4063,397468,294284,West Wednesbury South,Wednesbury South,1km2
+4071,398333,295294,West Wednesbury North,Wednesbury North,1km2
+4072,399252,295284,South Wesdnesbury North,Wednesbury North,1km2
+4073,399002,296115,North Wednesbury North,Wednesbury North,1km2
+4081,400353,295558,North Friar Park,Friar Park,2km2
+4082,400539,294843,South Friar Park,Friar Park,1km2
+4091,402560,295521,West Great Barr,Great Barr,2km2
+4092,404351,294525,East Great Bar,Great Barr,2km2
+4093,404283,295412,North Great Barr,Great Barr,1km2
+4101,404348,293782,North Newton,Newton,1km2
+4102,403475,293548,Weats Newton,Newton,1km2
+4103,404384,293105,South Newton,Newton,1km2
+4111,400149,292237,South Hateley Heath,Hateley Heath,1km2
+4112,400137,293080,Central Hateley Heath,Hateley Heath,1km2
+4113,400654,293991,North Hateley Heath,Hateley Heath,1km2
+4121,399313,291505,North Greets Green and Lyng,Greets Green and Lyng,1km2
+4122,399857,290505,South Greets Green and Lyng,Greets Green and Lyng,0km2
+4123,399096,290585,Central Greets Green and Lyng,Greets Green and Lyng,0km2
+4131,398545,287539,West Langley,Langley,2km2
+4132,399543,287505,East Langley,Langley,1km2
+4133,398996,286855,South Langley,Langley,1km2
+4141,401012,287347,East Bristnall,Bristnall,1km2
+4142,400269,287593,North Bristnall,Bristnall,1km2
+4143,400298,286757,South Bristnall,Bristnall,1km2
+4151,399672,285573,West Old Warley,Old Warley,1km2
+4152,400570,285979,East Warley,Old Warley,1km2
+4153,400394,285389,South Warley,Old Warley,1km2
+4161,401935,286744,East Abbey,Abbey,1km2
+4162,401805,286068,South Abbey,Abbey,1km2
+4163,401113,286611,North Abbey,Abbey,0km2
+4171,401842,287908,North Smethwick,Smethwick,1km2
+4172,402520,287489,South Smethwick,Smethwick,1km2
+4181,402970,288827,North Soho and Victoria,Soho and Victoria,1km2
+4182,402708,288327,West Soho and Victoria,Soho and Victoria,1km2
+4183,403196,287867,East Soho and Victoria,Soho and Victoria,1km2
+4191,402308,289395,East St Pauls,St Pauls,2km2
+4192,401360,288643,North West St Pauls,St Pauls,1km2
+4193,400874,289270,South West St Pauls,St Pauls,1km2
+4201,401107,291527,East West Bromwich Central,West Bromwich Central,3km2
+4202,399857,291639,North West Bromwich Central,West Bromwich Central,0km2
+4203,401190,290639,South West Bromwich Central,West Bromwich Central,1km2
+4211,402668,294310,East Charlemont,Charlemont,1km2
+4212,401019,292674,South Charlemont,Charlemont,3km2
+4213,401640,293984,North Charlemont,Charlemont,1km2
+4221,395700,285427,East Cradley Heath and Old Hil,Cradley Heath and Old Hill,2km2
+4222,395504,286213,North Cradley Heath and Old Hi,Cradley Heath and Old Hill,1km2
+4223,394281,286032,South Cradley Heath and Old Hi,Cradley Heath and Old Hill,1km2
+4231,395530,286852,South Rowley,Rowley,1km2
+4232,396159,287909,North Rowley,Rowley,2km2
+4233,397284,287612,East Rowley,Rowley,1km2
+4241,397880,288056,North Blackheath,Blackheath,1km2
+4242,397564,286977,East Blackheath,Blackheath,1km2
+4243,396827,286266,South Blackheath,Blackheath,1km2
+4301,399911,290015,South Greets Green and Lyng,Greets Green and Lyng,0km2
+4302,400336,290303,South Greets Green and Lyng,Greets Green and Lyng,0km2
+4303,400244,290758,South Greets Green and Lyng,Greets Green and Lyng,0km2
+4304,399749,290740,Central Greets Green and Lyng,Greets Green and Lyng,0km2
+4305,399786,291043,Central Greets Green and Lyng,Greets Green and Lyng,0km2
+4306,400170,291420,North West Bromwich Central,West Bromwich Central,0km2
+4307,400638,291119,North West Bromwich Central,West Bromwich Central,0km2
+4308,400900,290145,South West Bromwich Central,West Bromwich Central,0km2
+5011,414925,289733,West Castle Bromwich,Castle Bromwich,1km2
+5012,416195,289560,South Castle Bromwich,Castle Bromwich,1km2
+5013,415739,290229,North Castle Bromwich,Castle Bromwich,1km2
+5021,416787,290177,North Smith's Wood,Smith's Wood,0km2
+5022,417590,288761,South Smith's Wood,Smith's Wood,1km2
+5023,417081,289618,Central Smith's Wood,Smith's Wood,1km2
+5031,416954,288375,North Kingshurst,Kingshurst,1km2
+5032,416872,287588,South Kingshurst,Kingshurst,0km2
+5041,417698,287656,North Fordbridge,Fordbridge,1km2
+5042,416895,286636,South Fordbridge,Fordbridge,1km2
+5043,416916,287040,Central Fordbridge,Fordbridge,0km2
+5051,417593,286626,West Chelmsley Wood,Chelmsley Wood,1km2
+5052,418634,286894,East Chelmsley Wood,Chelmsley Wood,1km2
+5053,418302,286353,Central Chelmsley Wood,Chelmsley Wood,0km2
+5061,420449,280715,South East Bickenhill,Bickenhill,17km2
+5062,416735,281509,South West Bickenhill,Bickenhill,8km2
+5063,417875,286126,North East Bickenhill,Bickenhill,1km2
+5064,417129,285509,North West Bickenhill,Bickenhill,2km2
+5065,418943,283155,West Bickenhill,Bickenhill,3km2
+5066,418859,283775,East Bickenhill,Bickenhill,2km2
+5071,424887,282095,North Meriden,Meriden,16km2
+5072,424030,277157,Central Meriden,Meriden,24km2
+5073,421856,274819,South Meriden,Meriden,19km2
+5081,417450,276400,South Knowle,Knowle,5km2
+5082,416567,278758,North Knowle,Knowle,1km2
+5091,416882,275518,East Packwood,Packwood,2km2
+5092,416346,275006,South East Packwood,Packwood,7km2
+5093,415162,272839,South Packwood,Packwood,2km2
+5094,412846,275801,South West Packwood,Packwood,6km2
+5095,411072,276251,West Packwood,Packwood,9km2
+5101,414390,276960,East Shirley South,Shirley South,3km2
+5102,411575,278038,West Shirley South,Shirley South,2km2
+5103,412950,277826,Central Shirley South,Shirley South,2km2
+5111,409807,278696,East Shirley West,Shirley West,1km2
+5112,411011,279272,North Shirley West,Shirley West,1km2
+5113,411435,278854,West Shirley West,Shirley West,1km2
+5121,412744,278792,South Shirley East,Shirley East,2km2
+5122,412147,279848,North Shirley East,Shirley East,1km2
+5131,415392,278394,East St Alphege,St Alphege,1km2
+5132,414617,278926,West St Alphege,Alphege,1km2
+5133,413855,279397,North St Alphege,St Alphege,1km2
+5141,413596,282269,North Olton,Olton,1km2
+5142,413067,281895,Central Olton,Olton,1km2
+5143,412885,280995,South Olton,Olton,2km2
+5151,414280,283064,South Lyndon,Lyndon,1km2
+5152,413708,283677,North Lyndon,Lyndon,1km2
+5161,414450,282214,West Elmdon,Elmdon,1km2
+5162,416284,282943,East Elmdon,Elmdon,2km2
+5163,415396,283134,North Elmdon,Elmdon,2km2
+5171,414592,280963,West Silhill,Silhill,1km2
+5172,415893,279867,East Silhill,Silhill,1km2
+5173,415748,281087,North Silhill,Silhill,2km2
+5201,417628,277407,North Knowle,Knowle,3km2
+5202,415349,279273,East St Alphege,St Alphege,1km2
+5203,415977,279250,East St Alphege,St Alphege,1km2
+5204,414041,278315,West St Alphege,St Alphege,1km2
+5205,415046,278131,West St Alphege,St Alphege,1km2
+5206,413376,280139,North St Alphege,St Alphege,1km2
+5207,414418,280138,North St Alphege,St Alphege,1km2
+5208,414984,280137,West Silhill,Silhill,0km2
+5209,416275,280425,East Silhill,Silhill,1km2
+5210,417444,279872,East Silhill,Silhill,1km2
+5211,416906,283429,West Bickenhill,Bickenhill,0km2
+5212,420320,283690,East Bickenhill,Bickenhill,2km2
+5213,418507,285427,East Bickenhill,Bickenhill,3km2
+6011,396563,295566,South Darlaston South,Darlaston South,1km2
+6012,397654,296095,East Darlaston South,Darlaston South,1km2
+6013,397109,296872,West Darlaston South,Darlaston South,1km2
+6021,396586,297905,South Willenhall South,Willenhall South,1km2
+6022,396009,298973,West Willenhall South,Willenhall South,2km2
+6023,397370,298761,East Willenhall South,Willenhall South,1km2
+6031,396870,300247,West Short Heath,Short Heath,1km2
+6032,397715,299912,East Short Heath,Short Heath,1km2
+6033,397920,300788,North Short Heath,Short Heath,1km2
+6041,397857,301402,East Willenhall North,Willenhall North,1km2
+6042,397454,302066,North Willenhall North,Willenhall North,1km2
+6043,397019,301480,West Willenhall North,Willenhall North,1km2
+6051,397964,297096,South Bentley and Darlaston No,Bentley and Darlaston North,1km2
+6052,398567,297722,Central Bentley and Darlaston,Bentley and Darlaston North,2km2
+6053,398427,299150,North Bentley and Darlastone N,Bentley and Darlaston North,2km2
+6061,399888,297194,South Pleck,Pleck,1km2
+6062,400374,298257,North Pleck,Pleck,0km2
+6063,399883,298221,West Pleck,Pleck,1km2
+6071,399950,299194,South Burchills Leamore,Birchills Leamore,2km2
+6072,399433,300410,North West Burchills Leamore,Birchills Leamore,2km2
+6073,400412,300922,North East Burchills Leamore,Birchills Leamore,1km2
+6081,401671,296229,South Palfrey,Palfrey,2km2
+6082,401031,297265,North Palfrey,Palfrey,1km2
+6091,400924,297942,South St Matthew's,St Matthew's,0km2
+6092,401503,298773,West St Matthew's,St Matthew's,0km2
+6093,400825,299747,North St Matthew's,St Matthew's,0km2
+6094,401934,298736,East St Matthew's,St Matthew's,0km2
+6101,401578,300498,South Blakenall,Blakenall,1km2
+6102,400967,301219,Central Blakenall,Blakenall,1km2
+6103,401787,301592,North Blakenall,Blakenall,1km2
+6111,406630,295646,East Pheasey,Pheasey,1km2
+6112,405618,296758,North Pheasey,Pheasey,3km2
+6113,405870,295345,West Pheasey,Pheasey,2km2
+6121,407832,297258,South Streetly,Streetly,2km2
+6122,407429,297952,Central Streetly,Streetly,2km2
+6123,407760,298809,North Streetly,Streetly,3km2
+6131,405539,301674,North Aldridge Central and Sou,Aldridge Central and South,2km2
+6132,404900,300199,West Aldridge Central and Sout,Aldridge Central and South,5km2
+6133,405849,300163,East Aldridge Central and Sout,Aldridge Central and South,5km2
+6141,405958,302233,South Aldridge North and Walsa,Aldridge North and Walsall Woo,1km2
+6142,405219,304333,North Aldridge North and Walsa,Aldridge North and Walsall Woo,2km2
+6143,404791,303237,West Aldridge North and Walsal,Aldridge North and Walsall Woo,3km2
+6144,405538,303426,East Aldridge North and Walsal,Aldridge North and Walsall Woo,2km2
+6151,403534,296671,South Paddock,Paddock,2km2
+6152,402325,298231,West Paddock,Paddock,1km2
+6153,403936,297556,East Paddock,Paddock,1km2
+6161,402142,299405,South Hetherton Rushall,Hatherton Rushall,3km2
+6162,403109,301109,Central Haterton Rushall,Hatherton Rushall,4km2
+6163,403331,301997,North Hatherton Rushall,Hatherton Rushall,1km2
+6171,403182,302550,East Pelsall,Pelsall,1km2
+6172,402165,303931,North Pelsall,Pelsall,3km2
+6173,402007,302951,West Pelsall,Pelsall,1km2
+6181,400375,303187,North Bloxwich East,Bloxwich East,2km2
+6182,400905,302393,East Bloxwich East,Bloxwich East,1km2
+6183,400296,302087,West Bloxwich East,Bloxwich East,1km2
+6191,399435,301940,South Bloxwich West,Bloxwich West,2km2
+6192,399303,303222,East Bloxwich West,Bloxwich West,1km2
+6193,398669,302740,West Bloxwich West,Bloxwich West,1km2
+6201,405166,305672,East Brownhills,Brownhills,1km2
+6202,403956,306696,North Brownhills,Brownhills,2km2
+6203,404233,305037,West Brownhills,Brownhills,4km2
+6301,400930,298492,North Pleck,Pleck,1km2
+6302,401617,296946,North Palfrey,Palfrey,0km2
+6303,401346,297776,South St Matthew's,St Matthew's,0km2
+6304,401843,297562,South St Matthew's,St Matthew's,0km2
+6305,402373,297114,South St Matthew's,St Matthew's,0km2
+6306,401342,298392,West St Matthew's,St Matthew's,0km2
+6307,401846,298344,East St Matthew's,St Matthew's,0km2
+6308,402313,297674,West Paddock,Paddock,0km2
+6309,403114,297584,West Paddock,Paddock,1km2
+6310,400962,299517,North St Matthew's,St Matthew's,1km2
+7011,388459,296207,South Merry hill,Merry Hill,1km2
+7012,389082,297529,East Merry hill,Merry Hill,1km2
+7013,388343,297216,West Merry hill,Merry Hill,1km2
+7021,389825,295532,South Penn,Penn,1km2
+7022,390117,296357,East Penn,Penn,1km2
+7023,388982,295981,West Penn,Penn,1km2
+7031,389745,297239,South Graiseley,Graiseley,1km2
+7032,390420,297631,Central Graiseley,Graiseley,1km2
+7033,390286,298325,Wolverhampton,Graiseley,0km2
+7041,391501,296283,South Blakenhall,Blakenhall,2km2
+7042,391386,296909,Central Blakenhall,Blakenhall,1km2
+7043,391174,297575,North Blakenhall,Blakenhall,0km2
+7051,393137,294666,South Spring Vale,Spring Vale,1km2
+7052,393123,295559,East Spring Vale,Spring Vale,1km2
+7053,392408,295316,West Spring Vale,Spring Vale,1km2
+7061,394389,295429,South Ettingshall,Ettingshall,1km2
+7062,392396,296972,North Ettingshall,Ettingshall,2km2
+7063,394044,296464,East Ettingshall,Ettingshall,1km2
+7064,393355,297039,West Ettingshall,Ettingshall,1km2
+7065,394566,296391,South West Ettingshall,Ettingshall,0km2
+7071,395740,295099,South Bilston East,Bilston East,2km2
+7072,395374,295998,Central Bilston East,Bilston East,1km2
+7073,395748,296851,North East Bilson East,Bilston East,1km2
+7074,394741,296541,North West Bilston East,Bilston East,0km2
+7081,395407,297981,East Bilston North,Bilston North,1km2
+7082,395361,297269,Central Bilston North,Bilston North,1km2
+7083,394457,297430,West Bilston North,Bilston North,1km2
+7091,393594,298778,North East Park,East Park,2km2
+7092,393605,297510,West East Park,East Park,1km2
+7093,393970,298215,East East Park,East Park,1km2
+7101,393945,299624,South Wednesfield South,Wednesfield South,2km2
+7102,395855,300515,East Wednesfield South,Wednesfield South,1km2
+7103,394923,301035,West Wednesfield South,Wednesfield South,1km2
+7104,394839,300106,Central Wednesfield South,Wednesfield South,0km2
+7111,395021,301419,West Wednesfield North,Wednesfield North,0km2
+7112,396012,302172,North Wednesfield North,Wednesfield North,1km2
+7113,396294,301484,East Wednesfield North,Wednesfield North,1km2
+7121,393402,301029,South Fallings Park,Fallings Park,1km2
+7122,393941,301728,Central Fallings Park,Fallings Park,1km2
+7123,393328,302149,North Fallings Park,Fallings Park,1km2
+7131,392515,301747,North Low Hill,Low Hill,1km2
+7132,392415,300909,Central Low Hill,Low Hill,1km2
+7133,392290,300029,South Low Hill,Low Hill,1km2
+7141,387547,300690,West Tettenhall Regis,Tettenhall Regis,1km2
+7142,389294,301066,Central Tettenhall Regis,Tettenhall Regis,3km2
+7143,389454,302241,North Tettinghall Regis,Tettenhall Regis,1km2
+7151,387114,298184,South Tettenhall Wightwick,Tettenhall Wightwick,2km2
+7152,388218,299942,North Tettenhall Wightwick,Tettenhall Wightwick,1km2
+7153,387860,299166,Central Tettenhall Wightwick,Tettenhall Wightwick,1km2
+7161,390540,298993,East Park,Park,1km2
+7162,389836,299410,West Park,Park,1km2
+7163,388728,298304,South Park,Park,2km2
+7171,390754,300014,Central St Peter's,St Peter's,1km2
+7172,391406,298511,South West St Peter's,St Peter's,0km2
+7173,392076,298747,South West St Peter's,St Peter's,0km2
+7174,391600,299410,East St Peter's,St Peter's,0km2
+7175,389952,300011,West St Peter's,St Peter's,1km2
+7181,390082,302933,West Oxley,Oxley,1km2
+7182,390860,301653,South Oxley,Oxley,2km2
+7183,391068,302946,Central Oxley,Oxley,1km2
+7184,391569,303732,North Oxley,Oxley,1km2
+7191,391388,301926,South West Bushbury,Bushbury,1km2
+7192,392248,303190,North East Bushbury,Bushbury,2km2
+7193,391722,303377,North West Bushbury,Bushbury,1km2
+7194,391896,302008,South East Bushbury,Bushbury,0km2
+7201,392606,299378,South Heath Town,Heath Town,1km2
+7202,394131,300484,North Heath Town,Heath Town,1km2
+7203,393044,300056,West Heath Town,Heath Town,1km2
+7204,393820,300260,Central Heath Town,Heath Town,0km2
+7301,390859,298216,North Graiseley,Graiseley,0km2
+7302,391427,297414,North Blakenhall,Blakenhall,0km2
+7303,390244,298676,East Park,Park,0km2
+7304,389931,298747,East Park,Park,0km2
+7305,390978,299431,Central St Peter's,St Peter's,0km2
+7306,391426,299614,Central St Peter's,St Peter's,0km2
+7307,391427,298763,South West St Peter's,St Peter's,0km2
+7308,391568,298934,South West St Peter's,St Peter's,0km2
+7309,391178,298499,South West St Peter's,St Peter's,0km2
+7310,391649,298726,South West St Peter's,St Peter's,0km2
+7311,391180,298356,South West St Peter's,St Peter's,0km2
+7312,391511,298203,South West St Peter's,St Peter's,0km2
+7313,391668,298268,South West St Peter's,St Peter's,0km2
+7314,392157,298340,South West St Peter's,St Peter's,0km2
+7315,391932,297893,South East St Peter's,St Peter's,0km2
+7316,391485,300661,East St Peter's,St Peter's,0km2
+7317,392003,299717,East St Peter's,St Peter's,0km2
+8201,381046,304101,,,18km2
+8202,372415,292593,,,5km2
+8203,379540,292999,,,33km2
+8204,374385,301794,,,43km2
+8205,374976,308382,,,17km2
+8206,374860,307395,,,22km2
+8207,368993,294398,,,55km2
+8208,379471,307751,,,49km2
+8209,375916,295583,,,48km2
+8210,365670,301111,,,68km2
+8211,371091,293310,,,6km2
+8301,400287,312191,,,4km2
+8302,405077,316755,,,5km2
+8303,400937,314612,,,23km2
+8304,398277,312027,,,1km2
+8305,398377,309618,,,4km2
+8306,399058,311634,,,1km2
+8307,403318,318775,,,2km2
+8308,403913,317064,,,3km2
+8309,400693,310568,,,4km2
+8310,397239,309772,,,1km2
+8311,402124,308252,,,15km2
+8312,397758,310770,,,2km2
+8313,399177,313352,,,3km2
+8314,402792,312266,,,9km2
+8315,404114,318451,,,2km2
+8316,406234,308729,,,0km2
+8317,416200,313692,,,30km2
+8318,408593,315876,,,8km2
+8319,405032,310135,,,1km2
+8320,417114,302188,,,44km2
+8321,412433,309365,,,2km2
+8322,411163,310574,,,1km2
+8323,404093,309902,,,2km2
+8324,404769,308611,,,5km2
+8325,407532,319137,,,40km2
+8326,411782,310803,,,1km2
+8327,419327,302125,,,6km2
+8328,405787,307907,,,10km2
+8329,406587,309329,,,7km2
+8330,411189,314956,,,28km2
+8331,410800,309386,,,3km2
+8332,409023,299920,,,6km2
+8333,407065,314019,,,18km2
+8334,423144,311113,,,42km2
+8335,405188,309532,,,1km2
+8336,410697,304425,,,22km2
+8337,412174,308679,,,5km2
+8338,407259,303741,,,9km2
+8339,412578,310286,,,1km2
+8340,405373,308531,,,1km2
+8341,418852,307319,,,20km2
+8342,416190,308411,,,20km2
+8343,393541,317999,,,32km2
+8344,387904,303199,,,6km2
+8345,384369,311997,,,60km2
+8346,389896,307647,,,40km2
+8347,397941,307074,,,4km2
+8348,386588,303654,,,5km2
+8349,386920,302707,,,7km2
+8350,396429,303476,,,15km2
+8351,393802,305267,,,7km2
+8352,398804,306134,,,3km2
+8353,399027,307305,,,2km2
+8354,397422,312713,,,6km2
+8355,385096,284189,,,42km2
+8356,387190,296341,,,7km2
+8357,382191,299119,,,18km2
+8358,392843,314331,,,4km2
+8359,392723,313509,,,10km2
+8360,391668,313805,,,27km2
+8361,386101,299678,,,1km2
+8362,386463,299887,,,16km2
+8363,395189,307821,,,21km2
+8364,387065,291102,,,17km2
+8365,383194,291904,,,45km2
+8366,387368,293734,,,7km2
+8367,387432,292700,,,2km2
+8368,386499,292338,,,2km2
+8369,423183,304013,,,5km2
+8370,421938,302336,,,2km2
+8371,421972,303641,,,2km2
+8372,420497,303635,,,6km2
+8373,423063,302800,,,1km2
+8374,419680,305231,,,2km2
+8375,420814,305292,,,5km2
+8376,423918,301961,,,2km2
+8377,421472,300953,,,3km2
+8378,422835,300729,,,4km2
+8379,392633,322727,,,20km2
+8501,428896,289996,,,8km2
+8502,431077,298244,,,3km2
+8503,430916,297419,,,1km2
+8504,426974,298335,,,5km2
+8506,419720,289787,,,7km2
+8507,420172,288128,,,24km2
+8508,417487,294737,,,27km2
+8509,426079,300620,,,9km2
+8510,427268,287560,,,55km2
+8511,427767,298560,,,24km2
+8512,432613,294071,,,9km2
+8513,424222,297087,,,15km2
+8514,421725,296909,,,12km2
+8515,431079,294684,,,19km2
+8516,422628,292576,,,24km2
+8517,426663,306586,,,15km2
+8518,426065,302119,,,8km2
+8519,428825,304899,,,17km2
+8520,417818,291032,,,3km2
+8521,435706,291907,,,2km2
+8522,434427,291031,,,12km2
+8523,437031,290374,,,4km2
+8524,438589,287117,,,14km2
+8525,433770,292869,,,3km2
+8526,435754,290850,,,2km2
+8527,433666,285183,,,6km2
+8528,432531,291672,,,5km2
+8529,433991,286332,,,6km2
+8530,435524,287401,,,2km2
+8531,436095,286183,,,3km2
+8532,437790,292489,,,5km2
+8533,433531,292150,,,2km2
+8534,436983,293206,,,6km2
+8535,438360,290020,,,6km2
+8536,452522,277304,,,15km2
+8537,447786,272540,,,22km2
+8538,439903,277156,,,13km2
+8539,443320,282098,,,74km2
+8540,441504,270866,,,36km2
+8541,447465,275881,,,8km2
+8542,449215,266479,,,55km2
+8543,438451,274188,,,9km2
+8544,448845,278551,,,37km2
+8545,441236,275524,,,11km2
+8546,442389,287877,,,45km2
+8547,408903,257754,,,21km2
+8548,415193,258794,,,33km2
+8549,415339,254318,,,32km2
+8550,409803,252220,,,16km2
+8551,419709,264420,,,25km2
+8552,414844,266202,,,18km2
+8553,410086,258247,,,14km2
+8554,406933,251758,,,19km2
+8555,407461,263811,,,37km2
+8556,423273,258754,,,41km2
+8557,419058,255543,,,3km2
+8558,407077,263501,,,9km2
+8559,410848,273314,,,15km2
+8560,411096,270673,,,19km2
+8561,416251,262564,,,23km2
+8562,428537,272238,,,14km2
+8563,429579,261183,,,28km2
+8564,432062,264629,,,2km2
+8565,425268,264594,,,19km2
+8566,432015,266036,,,4km2
+8567,433097,267118,,,1km2
+8568,434246,268859,,,30km2
+8569,418918,270826,,,49km2
+8570,425144,267989,,,37km2
+8571,432268,267336,,,2km2
+8572,430899,266189,,,2km2
+8573,429797,272781,,,4km2
+8574,434956,264699,,,23km2
+8575,429387,271350,,,6km2
+8576,431331,274084,,,31km2
+8577,428914,266236,,,4km2
+8578,429738,264622,,,9km2
+8579,427680,264908,,,8km2
+8580,432468,263335,,,5km2
+8581,432888,265034,,,2km2
+8582,437238,258373,,,56km2
+8583,441204,265015,,,20km2
+8584,430961,255302,,,26km2
+8585,418486,247435,,,38km2
+8586,421577,254647,,,17km2
+8587,419246,254499,,,3km2
+8588,420031,255965,,,5km2
+8589,415791,251247,,,32km2
+8590,427685,255039,,,19km2
+8592,427015,241751,,,250km2
+8593,440908,257399,,,187km2
+8594,452415,274278,,,9km2
+8595,449525,273732,,,9km2
+8596,448912,274853,,,4km2
+8597,450905,276397,,,8km2
+8598,434743,274808,,,5km2
+8601,403584,272595,,,39km2
+8602,399571,273690,,,11km2
+8603,398638,276959,,,3km2
+8604,396435,274106,,,3km2
+8605,400455,275627,,,5km2
+8606,407999,276996,,,9km2
+8607,391801,278452,,,22km2
+8608,390506,280468,,,8km2
+8609,409525,277288,,,3km2
+8610,396751,271663,,,7km2
+8611,395875,271652,,,2km2
+8612,408375,275297,,,7km2
+8613,394747,267458,,,10km2
+8614,399141,269259,,,35km2
+8615,397309,278749,,,22km2
+8616,395145,270475,,,2km2
+8617,394455,273985,,,26km2
+8618,405449,268571,,,3km2
+8619,402990,267969,,,4km2
+8620,403929,266743,,,3km2
+8621,406614,268558,,,2km2
+8622,403798,264919,,,2km2
+8623,403446,263250,,,24km2
+8624,405458,265176,,,3km2
+8625,405042,266750,,,3km2
+8626,407466,266568,,,4km2
+8627,402550,266355,,,4km2
+8628,407301,267290,,,2km2
+8629,392403,266225,,,23km2
+8630,390012,263091,,,3km2
+8631,389591,261955,,,3km2
+8632,388756,263615,,,3km2
+8633,384201,270770,,,18km2
+8634,402782,258224,,,28km2
+8635,388221,264962,,,44km2
+8636,386444,259156,,,6km2
+8637,384198,264574,,,32km2
+8638,383913,275147,,,5km2
+8639,380319,270091,,,3km2
+8640,378007,275238,,,9km2
+8641,388194,278581,,,16km2
+8642,383897,277800,,,2km2
+8643,388228,274165,,,37km2
+8644,384599,280235,,,8km2
+8645,382123,277831,,,2km2
+8646,383967,276936,,,1km2
+8647,381607,276795,,,2km2
+8648,380657,272491,,,5km2
+8649,381449,271507,,,5km2
+8650,384766,276562,,,2km2
+8651,381929,274899,,,3km2
+8652,374101,273068,,,43km2
+8653,382187,276044,,,2km2
+8654,382354,279696,,,14km2
+8655,378979,276568,,,38km2
+8656,392161,258241,,,35km2
+8657,396566,262083,,,36km2
+8658,388047,251858,,,27km2
+8659,395943,253704,,,38km2
+8660,395702,244182,,,241km2
+8661,386093,255568,,,26km2
+8662,395972,269479,,,4km2
+8663,383478,254618,,,8km2
+8664,405745,243490,,,126km2
+8701,369258,306424,,,31km2
+8702,365261,308490,,,46km2
+8703,370458,312146,,,36km2
+8704,365912,311962,,,29km2
+9101,351474,236125,,,925km2
+9102,343735,258409,,,818km2
+9103,368523,244870,,,455km2
+9201,355929,332934,,,679km2
+9202,330129,329672,,,256km2
+9203,348592,311809,,,602km2
+9204,347546,281795,,,1027km2
+9205,371273,284921,,,271km2
+9301,423101,323675,,,252km2
+9302,409031,335886,,,138km2
+9303,383197,348005,,,211km2
+9304,385155,326445,,,336km2
+9305,393535,331368,,,243km2
+9306,394883,357258,,,309km2
+9307,398349,345851,,,267km2
+9401,389199,346699,,,93km2
+9601,363727,268152,,,115km2
+9602,379608,248310,,,444km2
+9701,367237,318657,,,144km2
+9702,374665,319192,,,4km2

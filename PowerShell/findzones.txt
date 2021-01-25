@@ -1,0 +1,13 @@
+# destination zones 2 or 3
+cat od.txt | Select-String -Pattern "^(2|3)" | Select-Object -ExpandProperty Line
+# origin zones 3
+cat od.txt | Select-String -Pattern "^\d+\s*,\s*3" | Select-Object -ExpandProperty Line
+
+cat TrainLOS_NF.PM_dist.csv | Select-String -Pattern "^\d+\s*,\s*(1517|9401|9602)" | Select-Object -ExpandProperty Line
+
+# sedish example
+
+(cat TrainLOS_NF.PM_dist.csv | Select-String -Pattern "^\d+\s*,\s
+*(1517|9401|9602)" | Select-Object -ExpandProperty Line) -replace "1517","1518"
+
+Get-ChildItem | Foreach-Object {Get-Content $_.FullName | Select-String -Pattern  "^\d+\s*,\s*(1517)" | Select-Object -ExpandProperty Line} > zones.txt

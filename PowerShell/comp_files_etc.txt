@@ -1,0 +1,16 @@
+# https://www.tutorialspoint.com/powershell/powershell_advanced_cmdlets.htm
+# get line and character information from a file
+get-content D:\temp\test\test.txt | measure-object -character -line -word
+# get the number of files in a directory
+Get-ChildItem | Measure-Object
+# comparing files
+Compare-Object -ReferenceObject $(Get-Content D:\temp\test\test.txt) -DifferenceObject $(Get-Content D:\temp\test\test1.txt)
+# comparing files modified to include equal sections
+Compare-Object -ReferenceObject $(Get-Content D:\temp\test\test.txt) -DifferenceObject $(Get-Content D:\temp\test\test1.txt) -IncludeEqual
+# Put line numbers at the start of each line
+Get-Service | Where-Object {$_.Status -eq "Running" -and $_.ServiceType -eq "Win32OwnProcess"}
+# Listing file name and extension
+Get-ChildItem | select BaseName,Extension
+Get-ChildItem -Recurse | Where-Object {$_.Extension -eq ".ps1"}
+# 
+Get-ChildItem -Filter "*current*" -Recurse | Rename-Item -NewName {$_.name -replace 'current','old'}

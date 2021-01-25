@@ -1,0 +1,173 @@
+Invoice Num	Contract Num	Invoice Date	Invoice Item	Invoice Amt	Invoice Paid
+2012	3011	44524	Planting Plan	2500	Yes
+2021	3012	40771	Consultation	300	Yes
+2032	3020	43765	Landscape Planting	2000	Yes
+2033	3020	43705	Lighting Plan	2000	Yes
+2034	3020	43208	Permitting	1000	Yes
+2041	3015	41219	Schematic Plan	1500	Yes
+2051	3017	41824	Peer Plan Review	2250	Yes
+2061	3026	43851	Schematic Open Space Plan	35000	Yes
+2063	3026	43759	Construction Documents	70000	No
+2064	3026	44258	Construction Admin. & Observation	50000	No
+2071	3023	44319	Schematic Open Space Plan	9000	Yes
+2072	3023	43060	Planting Plan	20000	Yes
+2081	3025	41658	Schematic Plan	4000	Yes
+2082	3025	43389	Construction Documents	8000	Yes
+2083	3025	43843	Construction Observation	3500	Yes
+2091	3027	42240	Schematic Plan	1250	Yes
+2101	3022	42863	Schematic Plan	4500	Yes
+2102	3022	40995	Construction Documents	12000	Yes
+2103	3022	42971	Construction Observation	5500	Yes
+2111	3021	43511	Schematic Landscape Plan	4500	Yes
+2112	3021	42016	Permitting	3000	Yes
+2113	3021	43765	Construction Documents	12000	No
+2114	3021	42403	Construction Observation	8500	No
+2121	3034	40981	Community Meetings	3500	Yes
+2122	3034	42505	Schematic Design	5500	Yes
+2131	3035	43801	Community Meetings	4500	Yes
+2132	3035	40654	Schematic Design	6000	Yes
+2141	3031	41614	Schematic Open Space Plan	7500	Yes
+2142	3031	43869	Planting Plans	16000	Yes
+2143	3031	41302	Layout Plans	16000	No
+2144	3031	41193	Construction Observation	9000	No
+2151	3030	42438	Schematic Plan	1500	Yes
+2152	3030	41227	Construction Documents	2250	Yes
+2153	3030	43926	Construction Observation	1500	Yes
+2161	3032	41011	Schematic Plan	2500	Yes
+2162	3032	40734	Planting Plan	2500	Yes
+2163	3032	42911	Construction Details	1500	Yes
+2171	3037	43602	Community Meetings & Coordination	8000	Yes
+2172	3037	42858	Schematic Plan	15000	Yes
+2173	3037	42878	Construction Documents	30000	No
+2174	3037	44151	Construction Admin. & Observation	15000	No
+2181	3038	43602	Community Meetings	3000	Yes
+2182	3038	42072	Schematic Plan	8000	Yes
+2183	3038	41938	Construction Documents	15000	Yes
+2184	3038	40852	Construction Admin. & Observation	8000	No
+2191	3033	43177	Schematic Plan	2250	Yes
+2201	3040	43791	Schematic Landscape Plan	8500	Yes
+2202	3040	40558	Construction Documents	18000	No
+2203	3040	43509	Construction Admin. & Observation	12000	No
+2211	3043	41315	Schematic Landscape Plan	5500	Yes
+2212	3043	42393	Construction Documents	10500	Yes
+2213	3043	41033	Construction Observation	3000	No
+2221	3044	44245	Construction Documents	15500	Yes
+2222	3044	43091	Construction Admin. & Observation	10000	No
+2231	3045	42499	Schematic Plans	18000	No
+2232	3045	41350	Community Meetings	7000	No
+2241	3050	41555	Schematic Plan	1000	Yes
+2251	3046	42051	Consultation	300	Yes
+2261	3053	41474	Consultation	375	Yes
+2271	3048	40891	Schematic Design	1500	Yes
+2272	3048	44248	Permitting	1000	Yes
+2273	3048	40555	Landscape Planting & Lighting Plan	3500	Yes
+2274	3048	43956	Construction Observation	1500	No
+2281	3056	44151	Construction Documents	20000	No
+2282	3056	44520	Construction Admin. & Observation	12500	No
+2291	3057	42762	Schematic Design	4000	Yes
+2292	3057	42456	Construction Documents	8000	Yes
+2293	3057	42941	Construction Observation	3500	No
+2301	3051	42773	Schematic Landscape Plan	5500	Yes
+2302	3051	43276	Construction Documents	9000	Yes
+2303	3051	43728	Construction Observation	3500	No
+2311	3060	40891	Schematic Plan	1500	Yes
+2312	3060	43387	Planting & Materials Plan	2500	Yes
+2321	3061	41321	Schematic Open Space Plan	6000	Yes
+2322	3061	41832	Permitting	3000	No
+2323	3061	41116	Construction Documents	15000	No
+2324	3061	43968	Construction Observation	6800	No
+2331	3062	41887	Schematic Landscape Plan	6000	Yes
+2332	3062	43474	Construction Documents	10000	No
+2333	3062	43812	Construction Observation	4000	No
+2341	3063	42437	Schematic Plan	1750	Yes
+2351	3065	44384	Community Meetings	4000	Yes
+2352	3065	42390	Schematic Plan	9500	No
+2353	3065	41434	Construction Documents	15000	No
+2354	3065	41399	Construction Admin. & Observation	9500	No
+2361	3068	40792	Schematic Plan	1500	Yes
+2362	3068	42965	Planting & Materials Plan	3000	Yes
+2371	3069	43108	Schematic Plan	3750	Yes
+2372	3069	41278	Permitting	2500	Yes
+2373	3069	43757	Planting Plan	7000	No
+2374	3069	41298	Lighting Plans	2500	No
+2381	3070	40831	Community Meetings	3500	No
+2382	3070	43607	Schematic Plan	8500	No
+2383	3070	42918	Construction Documents	14000	No
+2384	3070	44177	Construction Observation	9000	No
+2391	3071	42588	Schematic Plan	8500	No
+2392	3071	41738	Community Meetings & Permitting	4500	No
+2393	3071	41016	Construction Documents	14000	No
+2394	3071	40680	Construction Observation	10000	No
+2401	3072	41291	Schematic Plan	12000	No
+2402	3072	42821	Construction Documents	30000	No
+2403	3072	40849	Construction Admin. & Observation	15000	No
+2411	3075	43252	Schematic Plan	5000	Yes
+2412	3075	44143	Construction Documents	8000	No
+2413	3075	43506	Construction Observation	3500	No
+2421	3076	43985	Peer Plan Review	5000	Yes
+2431	3080	43837	Schematic Design	6000	Yes
+2432	3080	42761	Permitting	1500	No
+2433	3080	43187	Planting Plan	13000	No
+2434	3080	42017	Lighting Plans	2300	No
+2441	3078	42666	Schematic Landscape Plan	3750	Yes
+2442	3078	43885	Construction Documents	7500	No
+2443	3078	40602	Construction Observation	2500	No
+2451	3073	43581	Schematic Open Space & Landscape Plan	45000	No
+2452	3073	42223	Community Meetings & Permitting	25000	No
+2453	3073	44384	Construction Documents	85000	No
+2454	3073	42472	Construction Admin. & Observation	50000	No
+2461	3081	42456	Schematic Landscape Plan	4500	No
+2462	3081	41814	Construction Documents	12000	No
+2463	3081	42646	Construction Observation	4500	No
+2471	3077	43877	Schematic Landscape Plan	6500	Yes
+2481	3082	40569	Schematic Plan	2500	Yes
+2482	3082	44280	Planting Plan	2500	No
+2491	3090	43750	Community Meetings	2000	No
+2492	3090	44233	Schematic Plan	5500	No
+2493	3090	41606	Construction Documents	12000	No
+2494	3090	44044	Construction Observation	6000	No
+2501	3085	41339	Schematic Landscape Plan	10500	No
+2502	3085	41991	Construction Documents	26000	No
+2503	3085	43152	Construction Observation	16000	No
+2511	3095	41043	Schematic Design	3000	Yes
+2512	3095	44007	Construction Documents	7000	No
+2513	3095	44247	Construction Observation	4500	No
+2521	3086	44348	Schematic Landscape Plan	4750	No
+2522	3086	41142	Construction Documents	8500	No
+2523	3086	43928	Construction Observation	4000	No
+2531	3098	43551	Schematic Landscape Plan	8000	No
+2532	3098	42393	Community Meetings	2000	No
+2533	3098	44262	Construction Documents	17000	No
+2534	3098	42931	Construction Observation	8000	No
+2541	3093	43900	Schematic Plan	2000	Yes
+2542	3093	43632	Planting Plan	3000	No
+2551	3099	43535	Schematic Landscape Design	6500	No
+2561	3094	44022	Schematic Plan	2000	Yes
+2562	3094	40888	Planting Plan	3000	No
+2571	3104	43882	Schematic Plan	2000	No
+2572	3104	44373	Planting & Materials Plan	3500	No
+2581	3097	43242	Schematic Plan	2000	No
+2582	3097	41265	Landscape Layout & Planting Plan	4000	No
+2583	3097	41476	Construction Observation	2500	No
+2591	3108	41408	Schematic Landscape Plan	12000	No
+2592	3108	41903	Community Meetings	3000	No
+2593	3108	40980	Construction Documents	25000	No
+2594	3108	42212	Construction Observation	10000	No
+2601	3100	43228	Schematic Landscape Design	10500	No
+2611	3103	40918	Schematic Open Space & Landscape Plan	45000	No
+2612	3103	42570	Community Meetings & Permitting	25000	No
+2613	3103	41333	Construction Documents	105000	No
+2614	3103	40652	Construction Admin. & Observation	77000	No
+2621	3109	44278	Schematic Plan	8000	No
+2622	3109	41684	Construction Documents	18000	No
+2623	3109	41985	Construction Admin. & Observation	15000	No
+2631	3101	41978	Schematic Plan	2500	No
+2632	3101	42602	Permitting	1500	No
+2633	3101	43577	Planting Plan	4000	No
+2634	3101	44093	Lighting Plans	1500	No
+2641	3105	40599	Schematic Plan	2000	No
+2642	3105	42756	Planting Plan	3000	No
+2651	3110	43376	Community Meetings	4000	No
+2652	3110	41254	Schematic Plan	9500	No
+2653	3110	43483	Construction Documents	15000	No
+2654	3110	42179	Construction Admin. & Observation	9500	No

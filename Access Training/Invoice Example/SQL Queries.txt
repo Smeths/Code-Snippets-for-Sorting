@@ -1,0 +1,153 @@
+1 SELECT Statement Basics
+
+SELECT column1, column2, ...
+FROM table_name;
+
+SELECT Company
+FROM Customer
+
+SELECT *
+FROM Customer
+
+SELECT TOP 10 *
+FROM Customer
+
+SELECT DISTINCT Company
+FROM Customer
+
+2 WHERE CLAUSE
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+SELECT * FROM Customer
+WHERE FirstName='Owen';
+
+SELECT * FROM InvoicesList
+WHERE [Invoice Amt] >2500;
+
+SELECT * FROM InvoicesList
+WHERE [Invoice Amt] > 2000 AND [Invoice Paid] = 'No'
+
+SELECT * FROM Customer
+WHERE FirstName LIKE 'O*';
+
+SELECT * FROM Customer
+WHERE City IN ('Holland', 'Lansing');
+
+3 ORDER BY CLAUSE
+
+SELECT column1, column2, ...
+FROM table_name
+ORDER BY column1, column2, ... ASC|DESC;
+
+SELECT * FROM Customers
+ORDER BY Country ASC, CustomerName DESC;
+
+4 INSERT INTO 
+
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+
+INSERT INTO Customer (CustomerID, FirstName, LastName)
+VALUES ("12000","John","Smith");
+
+5 UPDATE
+
+UPDATE Customer
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+
+UPDATE InvoicesList
+SET [Invoice Paid] = "No"
+WHERE [Invoice Amt] > 2000;
+
+6 DELETE FROM
+
+DELETE FROM table_name WHERE condition;
+
+DELETE FROM InvoiceList WHERE [Invoice Amt] < 1000;
+
+7 COLUMN Aggregations
+
+SELECT SUM(column_name)
+FROM table_name
+
+SELECT SUM([Invoice Amt]) MIN([Invoice Amt])
+FROM InvoicesList
+
+7a iif
+
+SELECT [Invoice Num], [Contract Num],[Invoice Amt],iif([Invoice Amt]>10000,1.2*[Invoice Amt],-1.2*[Invoice Amt]) as Invoice Modified
+FROM InvoicesList;
+
+7b switch statement
+
+SELECT [Invoice Num], [Contract Num],[Invoice Amt],
+    Switch(
+        [Invoice Num] < 2500 and [Contract Num] < 4000, 1.2*[Invoice Amt],
+        [Invoice Num] >= 2500 and [Contract Num] < 4000, -1.2*[Invoice Amt],
+        True,0
+        ) AS Commission
+FROM InvoicesList;
+
+8 JOINS
+
+SELECT FirstName, LastName, [Contract Amt] 
+   FROM Customer INNER JOIN Contract 
+   ON Customer.CustomerID=Contract.[Customer ID]
+
+9 GROUP BY
+
+SELECT column_name(s)
+FROM table_name
+WHERE condition
+GROUP BY column_name(s)
+ORDER BY column_name(s);
+
+SELECT LastName, Count(CustomerID)
+FROM Customer
+GROUP BY LastName;
+
+10 Compound Statements
+
+SELECT City, Sum([Contract Amt]) as [Total Contract Amount]
+FROM Customer INNER JOIN Contract ON Customer.CustomerID=Contract.[Customer ID]
+GROUP BY City
+
+11 Creating Tables
+
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+
+SELECT FirstName, LastName 
+INTO Names
+FROM Customer
+
+12 Adding columns
+
+ALTER TABLE InvoicesList ADD COLUMN VAT Number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
