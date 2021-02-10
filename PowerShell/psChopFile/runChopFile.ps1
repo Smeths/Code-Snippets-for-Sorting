@@ -1,0 +1,1 @@
+﻿./chopFile.ps1 -ipfile "test.txt" -opfile "output.txt" -botStr "7" -botOffset 0 -topStr "2" -topOffset -1
