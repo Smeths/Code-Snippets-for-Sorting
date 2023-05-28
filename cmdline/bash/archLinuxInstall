@@ -1,0 +1,93 @@
+# Installing Arch Linux
+
+## Downloading and Burning ISO on a Pen Drive
+
+[Arch Linux can be downloaded from here](https://www.archlinux.org/download/)
+
+!! could look into torrent download methods
+
+The iso image "archlinux-2020.02.01-x86_64.iso" can be burnt to a pen drive using the linux
+dd command. 
+
+if == input file
+of == output file
+usage example:
+$ sudo dd status=progress if=name-of.iso of=/dev/sdb <- depends on system
+
+However, the "of" needs to be established first. This can be done by listing block devices.
+
+lsblk
+
+On my system this gave the following output:
+
+NAME         MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda            8:0    1  7.3G  0 disk /media/smeths/distro
+mmcblk0      179:0    0 29.1G  0 disk 
+└─mmcblk0p1  179:1    0 29.1G  0 part /
+mmcblk0boot0 179:8    0    4M  1 disk 
+mmcblk0boot1 179:16   0    4M  1 disk 
+
+Before using the dd command the device must be umounted: umount /dev/sda. The command
+"lsblk" now gives
+
+NAME         MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda            8:0    1  7.3G  0 disk 
+mmcblk0      179:0    0 29.1G  0 disk 
+└─mmcblk0p1  179:1    0 29.1G  0 part /
+mmcblk0boot0 179:8    0    4M  1 disk 
+mmcblk0boot1 179:16   0    4M  1 disk 
+
+The dd command can now be used to burn the iso to the pen drive.
+
+# Set up BIOS 
+
+Make sure that the "USB Boot" is enabled and that USB is before OS (operating system) in the boot order
+
+Then insert the pen drive and restart.
+
+# Setting up the internet
+
+When you restart the your computer should start from the usb drive and will boot arch linux from there.
+You **cannot** simply install arch linux by selecting it, at this stage, and following a set of instructions.
+
+The USB boot version of Arch Linux needed - for me - configuring before I could access the internet using
+"ping". 
+
+As I have a wireless connection I used followed [the instructions here](https://wiki.archlinux.org/index.php/Network_configuration/Wireless)
+
+The command "ip link" displays all of the internet interfaces. The lo interface is the "loopback" interface,
+which I think (need to do more research) deals with return messages. It is definitely not a 
+physical interface wireless or wired. The remaining interfaces will either start with a "w" indicating they are
+wireless or start eth0 indicating an ethernet card for a wired interface. For the interface to be "ready" there
+must be UP within the angular brackets. Intially the first section within angular brackets readS
+ <BROADCAST,MULTICAST>
+
+To set the interface up type "ip link set 'interface name' up". The contents of the angular brackets now
+changes to <NO-CARRIER, BROADCAST,MULTICAST,UP>.
+
+The instructions at the link mentioned above recommend checking the drivers for the interface are loaded.
+Type "lspci -k", to list pci (lspci) driver (-k). There should be a network controller, which I found.
+
+You can also check for firmware, which best I can tell is the same as drivers by typing "dmesg | grep firmware"
+
+ROUGH:
+
+ip link set wlan0 up - to setup up interface
+# for wireless wpa encryption 
+wpa_passphrase Smeths Tigercat77 > wpa.conf
+wpa_supplicant -Dwext -iwlan0 -c/root/wpa.conf -B
+# to set up ip address and routing table
+dhclient -r
+dhclient wlan0
+
+# repeat above then follow this, I think problem before were because of wrong format for EFI partition
+https://www.youtube.com/watch?v=-zb8220uUiA
+
+
+
+
+
+
+
+
+

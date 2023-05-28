@@ -1,0 +1,46 @@
+Linux boot stages:
+
+BIOS  - Basic input output system
+1) Sytem integrity checks
+2) Searches loads and executes the boot loader program (MBR)
+3) Searches for drives
+
+MBR - Master boot record
+1) located in the first sector of the bootable disk
+2) 512 bytes in size
+3) Has 3 components:
+a) Primary boot loader info
+b) Partition table info
+c) Mbr validation check
+4) Contains information about GRUB - loads and executes the GRUB boot loader
+
+GRUB - Grant unified boot loader
+1) Can choose which kernel image to be executed
+2) Displays splash screen and waits for a few seconds - then loads default kernel as specified in GRUB config file
+3) GRUB has knowledge of the file system
+4) GRUB loads kernel and initial ram disk init rd (the kernel uses the init rd)
+
+Kernel
+
+1) Mounts the root file system
+2) Kernel executes program in it's init bin folder /sbin/init
+This becomes the very first program to be executed process 0
+
+Init
+
+1) looks at linux /etc/inittab file to decide the run level
+run levels decides which programs will be loaded at start up
+The following run levels are available:
+0-halt /etc/rc.d/rc0.d/ e.g.
+1-single user mode
+2-multiuser, without NFS
+3-full multiuser mode
+4-unused
+5-X11
+6-reboot
+
+programs starting with "s" are used during startup, programs starting with "k" are used during shutdown
+numbers next to program indicate when they should be started or killed
+
+
+

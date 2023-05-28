@@ -1,0 +1,14 @@
+homepage: 
+
+https://www.ffmpeg.org/
+
+(has lots of explanations and examples)
+
+ffmpeg tutorials:
+
+https://www.youtube.com/watch?v=BiMP_hN8f6s&list=PL-jO1Uomc5sdlqcl5TuAA2Z7U7r2dzsxX
+
+subtitles:
+
+https://www.socialmediaexaminer.com/create-custom-srt-files-video-subtitles/
+
